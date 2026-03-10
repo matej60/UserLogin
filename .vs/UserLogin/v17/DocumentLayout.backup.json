@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\matej\\source\\repos\\UserLogin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|c:\\users\\matej\\source\\repos\\userlogin\\userlogin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|solutionrelative:userlogin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|c:\\users\\matej\\source\\repos\\userlogin\\userlogin\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|solutionrelative:userlogin\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|c:\\users\\matej\\source\\repos\\userlogin\\userlogin\\views\\userlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|solutionrelative:userlogin\\views\\userlist.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|c:\\users\\matej\\source\\repos\\userlogin\\userlogin\\data\\users.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|solutionrelative:userlogin\\data\\users.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|c:\\users\\matej\\source\\repos\\userlogin\\userlogin\\views\\userlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|solutionrelative:userlogin\\views\\userlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|c:\\users\\matej\\source\\repos\\userlogin\\userlogin\\controllers\\datahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|solutionrelative:userlogin\\controllers\\datahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|c:\\users\\matej\\source\\repos\\userlogin\\userlogin\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|solutionrelative:userlogin\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|c:\\users\\matej\\source\\repos\\userlogin\\userlogin\\views\\adduser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|solutionrelative:userlogin\\views\\adduser.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|c:\\users\\matej\\source\\repos\\userlogin\\userlogin\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|solutionrelative:userlogin\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|c:\\users\\matej\\source\\repos\\userlogin\\userlogin\\views\\adduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|solutionrelative:userlogin\\views\\adduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|c:\\users\\matej\\source\\repos\\userlogin\\userlogin\\controllers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E84CC808-2FE1-4CCF-8C91-F43403354315}|UserLogin\\UserLogin.csproj|solutionrelative:userlogin\\controllers\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +50,148 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserLogin\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\Models\\User.cs",
+              "RelativeToolTip": "UserLogin\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T16:16:25.236Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "UserLogin\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\Models\\Admin.cs",
+              "RelativeToolTip": "UserLogin\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T16:18:53.118Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataHandler.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\Controllers\\DataHandler.cs",
+              "RelativeDocumentMoniker": "UserLogin\\Controllers\\DataHandler.cs",
+              "ToolTip": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\Controllers\\DataHandler.cs",
+              "RelativeToolTip": "UserLogin\\Controllers\\DataHandler.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T16:49:52.221Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UserLogin\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UserLogin\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T11:39:27.542Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserList.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\Views\\UserList.xaml.cs",
+              "RelativeDocumentMoniker": "UserLogin\\Views\\UserList.xaml.cs",
+              "ToolTip": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\Views\\UserList.xaml.cs",
+              "RelativeToolTip": "UserLogin\\Views\\UserList.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T14:05:39.285Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddUser.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\Views\\AddUser.xaml.cs",
+              "RelativeDocumentMoniker": "UserLogin\\Views\\AddUser.xaml.cs",
+              "ToolTip": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\Views\\AddUser.xaml.cs",
+              "RelativeToolTip": "UserLogin\\Views\\AddUser.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T16:57:09.809Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "UserLogin\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\MainWindow.xaml.cs",
-              "RelativeToolTip": "UserLogin\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Users.xml",
+              "DocumentMoniker": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\Data\\Users.xml",
+              "RelativeDocumentMoniker": "UserLogin\\Data\\Users.xml",
+              "ToolTip": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\Data\\Users.xml",
+              "RelativeToolTip": "UserLogin\\Data\\Users.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-03-08T16:37:43.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserList.xaml",
+              "DocumentMoniker": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\Views\\UserList.xaml",
+              "RelativeDocumentMoniker": "UserLogin\\Views\\UserList.xaml",
+              "ToolTip": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\Views\\UserList.xaml",
+              "RelativeToolTip": "UserLogin\\Views\\UserList.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-07T17:17:00.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddUser.xaml",
+              "DocumentMoniker": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\Views\\AddUser.xaml",
+              "RelativeDocumentMoniker": "UserLogin\\Views\\AddUser.xaml",
+              "ToolTip": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\Views\\AddUser.xaml",
+              "RelativeToolTip": "UserLogin\\Views\\AddUser.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-08T09:15:38.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\Controllers\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "UserLogin\\Controllers\\PasswordHelper.cs",
+              "ToolTip": "C:\\Users\\matej\\source\\repos\\UserLogin\\UserLogin\\Controllers\\PasswordHelper.cs",
+              "RelativeToolTip": "UserLogin\\Controllers\\PasswordHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T11:39:27.542Z",
+              "WhenOpened": "2026-03-07T21:32:49.169Z",
               "EditorCaption": ""
             }
           ]

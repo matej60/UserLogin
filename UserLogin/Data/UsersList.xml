@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User xsi:type="Admin">
+    <Id>0</Id>
+    <Name>admin</Name>
+    <PasswordHash>8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918</PasswordHash>
+    <Created>2026-03-08T23:11:48.978539+01:00</Created>
+  </User>
+</ArrayOfUser>

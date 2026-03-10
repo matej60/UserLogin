@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User xsi:type="Admin">
+    <Id>0</Id>
+    <Name>admin</Name>
+    <PasswordHash>8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918</PasswordHash>
+    <Created>2026-03-08T17:31:13.8129099+01:00</Created>
+  </User>
+  <User>
+    <Id>3</Id>
+    <Name>Default</Name>
+    <PasswordHash>688787d8ff144c502c7f5cffaafe2cc588d86079f9de88304c26b0cb99ce91c6</PasswordHash>
+    <Created>2026-03-08T22:39:05.22341+01:00</Created>
+  </User>
+  <User>
+    <Id>4</Id>
+    <Name>test</Name>
+    <PasswordHash>9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08</PasswordHash>
+    <Created>2026-03-10T11:47:55.9919687+01:00</Created>
+  </User>
+</ArrayOfUser>

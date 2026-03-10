@@ -1,0 +1,71 @@
+﻿<Window x:Class="UserLogin.Views.UserList"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UserLogin"
+        mc:Ignorable="d"
+        Title="UserList"
+        Height="500"
+        Width="800"
+        Background="{StaticResource WindowBackground}"
+        WindowStartupLocation="CenterScreen" Closing="Window_Closing">
+    <Grid Margin="25">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <TextBlock Name="WelcomeMsg" 
+                   Text="Vítej ..."
+                   FontSize="30"
+                   FontWeight="SemiBold"
+                   Margin="0 0 0 20"/>
+        <Button Content="↩️ odhlásit se"
+                Width="100" Height="40"
+                HorizontalAlignment="Right"
+                Margin="0 0 0 20"
+                Click="Logout"/>
+        <!-- Card -->
+        <Border Name="UsersBorder" 
+                Grid.Row="1"
+                Background="White"
+                CornerRadius="12"
+                Padding="15"
+                Visibility="{Binding AdminVisibility}">
+
+            <ListBox x:Name="UsersListBox"
+                     BorderThickness="0"
+                     ItemsSource="{Binding UsersList}"
+                     DisplayMemberPath="Title"
+                     MouseDoubleClick="ModUser"/>
+        </Border>
+        <Button Grid.Row="2"
+                Content="🔒 Změnit heslo"
+                Width="160"
+                HorizontalAlignment="Left"
+                Margin="0 15 0 0"
+                Click="ChangeYourPasswd"/>
+
+        <!-- Buttons -->
+        <StackPanel Name="buttons" 
+                    Grid.Row="2"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Right"
+                    Margin="0 15 0 0"
+                    Visibility="{Binding AdminVisibility}">
+
+            <Button Content="➕ Přidat"
+                    Width="160"
+                    Click="CreateNewUser"/>
+
+            <Button Content="🗑 Smazat"
+                    Width="120"
+                    Click="DeleteUser" Cursor="Hand"/>
+        </StackPanel>
+
+    </Grid>
+</Window>
